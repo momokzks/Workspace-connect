@@ -8,6 +8,7 @@
 </head>
 <body>
     <header>
+    
         <h1>WorkSpace Connect</h1>
         <nav>
             <a href="index.php">Accueil</a> | 
