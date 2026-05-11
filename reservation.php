@@ -37,7 +37,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <header>
         <h1>WorkSpace Connect</h1>
         <nav>
-            <a href="index.php">Accueil</a>
+            <a href="index.php">Retour à l'Accueil</a>
             <a href="salles.php">Nos salles</a>
             <a href="reservation.php">Réserver</a>
         </nav>

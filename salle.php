@@ -19,7 +19,7 @@ $salle = $stmt->fetch(PDO::FETCH_ASSOC);
     <header>
         <h1>WorkSpace Connect</h1>
         <nav>
-            <a href="index.php">Accueil</a>
+            <a href="index.php">Retour à l'Accueil</a>
             <a href="salles.php">Nos salles</a>
             <a href="reservation.php">Réserver</a>
         </nav>
